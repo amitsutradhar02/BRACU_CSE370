@@ -11,7 +11,7 @@ CSE370, Database System, covers fundamental concepts of database management, rel
 ```
 
 ## 🛠 Tech Stack
-- **SQL** (MySQL / PostgreSQL)
+- **SQL** (MySQL)
 - **ER Modeling Tools** (Lucidchart, Draw.io, etc.)
 
 ## 📌 Topics Covered
